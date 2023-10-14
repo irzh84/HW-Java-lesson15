@@ -64,5 +64,9 @@ public class Ticket implements Comparable<Ticket> {
             return 0;
         }
     }
+//     вебинар
+//     public int compareTo(Ticket o) {
+//            return price - o.price;
+//    }
 }
 
